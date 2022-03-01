@@ -10,7 +10,7 @@ with open('README.md', 'r', encoding='utf-8') as f:
 setuptools.setup(
     name='collections-mapping',
     version='0.0.1',
-    description='A collection of specialized container datatypes providing dict-like key-value mapping objects',
+    description='Specialized container datatypes providing dict-like key-value mapping objects',
     author='Yi Zhang',
     author_email='yizhang.dev@gmail.com',
     long_description=README,
