@@ -1,8 +1,8 @@
 # collections-mapping
 
-collections-mapping is
+collections-mapping are
 
-* a collection of specialized container datatypes providing dict-like key-value mapping objects
+* specialized container datatypes providing dict-like key-value mapping objects
 
 
 
